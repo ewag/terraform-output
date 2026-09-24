@@ -1,0 +1,10 @@
+{
+  "requester": "eric.wagner@chipotle.com",
+  "userEmail": "eric.wagner@chipotle.com",
+  "useCase": "Testing",
+  "applications": ["Development tools"],
+  "accessDuration": "Temporary",
+  "requiresLocalAdmin": true,
+  "hostPoolOverride": "",
+  "notes": "derp"
+}
