@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: avd-access-request
+  description: Reviewable AVD access request and Terraform decision record.
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: infrastructure
+  lifecycle: experimental
+  owner: user:default/guest
